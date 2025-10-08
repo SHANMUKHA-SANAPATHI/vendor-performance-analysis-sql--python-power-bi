@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧾 Vendor Performance Analysis | 🏬 Retail Inventory & Sales  
 
 _Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Power BI._
@@ -155,3 +156,6 @@ Power BI dashboard shows:
 Data Analyst
 * Email: shanmukhsanpathi@gmail.com
 
+=======
+# vendor-performance-analysis-sql--python-power-bi
+>>>>>>> bd063235b576826f1d047dc56db1c4f658d5bb43
