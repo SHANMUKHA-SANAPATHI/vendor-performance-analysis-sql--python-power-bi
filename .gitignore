@@ -2,4 +2,5 @@
 --pycache--/
 logs/
 data/
-
+.DS_Store/
+*/.DS_Store
